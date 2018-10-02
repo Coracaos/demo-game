@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1532861535 source:d:\computacion grafica\game\main.cpp
+	<windows.h>
+	<GL/glut.h>
+	"Game.h"
+	"Settings.h"
+	"Tank.h"
+	<iostream>
+	<math.h>
+	<vector>
+	"Bullet.h"
+
+1532753698 d:\glut\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+893401200 d:\glut\include\gl\gl.h
+
+893401200 d:\glut\include\gl\glu.h
+	<GL/gl.h>
+
+1532931105 d:\computacion grafica\game\include\game.h
+	<windows.h>
+	<GL/glut.h>
+	"Settings.h"
+	"Tank.h"
+	"Bullet.h"
+	<vector>
+
+1532849137 d:\computacion grafica\game\include\settings.h
+	<string>
+
+1532934613 source:d:\computacion grafica\game\src\game.cpp
+	"Game.h"
+	<iostream>
+
+1532866734 d:\computacion grafica\game\include\tank.h
+	<windows.h>
+	<GL/glut.h>
+	"Settings.h"
+
+1532923511 source:d:\computacion grafica\game\src\settings.cpp
+	"Settings.h"
+
+1532861011 source:d:\computacion grafica\game\src\tank.cpp
+	"Tank.h"
+	<iostream>
+	<math.h>
+
+1532925446 source:d:\computacion grafica\game\src\bullet.cpp
+	"Bullet.h"
+
+1532860888 d:\computacion grafica\game\include\bullet.h
+	"Settings.h"
+	"Tank.h"
+	<math.h>
+	<GL/glut.h>
+	<iostream>
+
